@@ -116,6 +116,8 @@
       "secretKeyPlaceholder": "Turnstile Secret Key 입력",
       "secretKeyDescription": "활성화하기 전에 Cloudflare에서 Turnstile 애플리케이션을 설정하고 필요한 키를 제공하세요"
     },
+    "registrationEnabled": "회원가입 활성화",
+    "registrationEnabledDesc": "새 사용자의 회원가입 허용",
     "save": "설정 저장",
     "saving": "저장 중...",
     "saveSuccess": "설정이 성공적으로 저장되었습니다",

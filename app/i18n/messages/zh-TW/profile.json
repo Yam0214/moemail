@@ -116,6 +116,8 @@
       "secretKeyPlaceholder": "輸入 Turnstile Secret Key",
       "secretKeyDescription": "請先在 Cloudflare 建立 Turnstile 並填寫上述必填參數後再啟用"
     },
+    "registrationEnabled": "開啟註冊",
+    "registrationEnabledDesc": "允許新用戶註冊帳號",
     "save": "儲存設定",
     "saving": "儲存中...",
     "saveSuccess": "設定儲存成功",

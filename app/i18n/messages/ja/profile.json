@@ -116,6 +116,8 @@
       "secretKeyPlaceholder": "Turnstile Secret Key を入力",
       "secretKeyDescription": "Cloudflare で Turnstile を作成し、必須のキーを入力してから有効化してください"
     },
+    "registrationEnabled": "登録を有効化",
+    "registrationEnabledDesc": "新規ユーザーの登録を許可",
     "save": "設定を保存",
     "saving": "保存中...",
     "saveSuccess": "設定を保存しました",

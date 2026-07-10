@@ -1,4 +1,5 @@
 import { NextResponse } from "next/server"
+import { getRequestContext } from "@cloudflare/next-on-pages"
 import { register } from "@/lib/auth"
 import { authSchema, AuthSchema } from "@/lib/validation"
 import { verifyTurnstileToken } from "@/lib/turnstile"
@@ -7,6 +8,16 @@ export const runtime = "edge"
 
 export async function POST(request: Request) {
   try {
+    // Check if registration is enabled
+    const env = getRequestContext().env
+    const registrationEnabled = await env.SITE_CONFIG.get("REGISTRATION_ENABLED")
+    if (registrationEnabled === "false") {
+      return NextResponse.json(
+        { error: "Registration is disabled" },
+        { status: 403 }
+      )
+    }
+
     const json = await request.json() as AuthSchema
     
     try {

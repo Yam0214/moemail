@@ -116,6 +116,8 @@
       "secretKeyPlaceholder": "Enter Turnstile Secret Key",
       "secretKeyDescription": "Set up a Turnstile application in Cloudflare and provide the required keys before enabling"
     },
+    "registrationEnabled": "Enable Registration",
+    "registrationEnabledDesc": "Allow new users to register",
     "save": "Save Configuration",
     "saving": "Saving...",
     "saveSuccess": "Configuration saved successfully",
