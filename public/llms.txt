@@ -1,8 +1,8 @@
-# MoeMail
+# Secure Mail
 
-> Temporary email service with CLI tool for AI Agents
+> Modern email service with CLI tool for automation
 
-MoeMail provides email addresses. Install the CLI for programmatic access:
+Secure Mail provides email addresses. Install the CLI for programmatic access:
 
 ## CLI Tool
 

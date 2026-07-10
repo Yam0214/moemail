@@ -1,7 +1,7 @@
 {
-  "name": "MoeMail",
-  "short_name": "MoeMail",
-  "description": "MoeMail - 现代安全邮箱服务",
+  "name": "Secure Mail",
+  "short_name": "Secure Mail",
+  "description": "安全邮箱 - 现代邮箱服务",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
