@@ -157,13 +157,13 @@
     "sharedMessage": "공유된 메시지",
     "expiresAt": "만료 시간",
     "permanent": "영구",
-    "createOwnEmail": "나만의 임시 이메일 만들기",
+    "createOwnEmail": "나만의 이메일 만들기",
     "brand": {
       "title": "MoeMail",
-      "subtitle": "귀여운 임시 이메일 서비스",
+      "subtitle": "모던한 이메일 서비스",
       "cta": "지금 사용해보기",
       "officialSite": "공식 사이트",
-      "copyright": "© 2024 MoeMail. 귀여운 임시 이메일 서비스"
+      "copyright": "© 2024 MoeMail. 모던한 이메일 서비스"
     }
   }
 }

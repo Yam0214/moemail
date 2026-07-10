@@ -31,7 +31,7 @@
     "viewDocs": "查看使用文件",
     "docs": {
       "getConfig": "取得系統設定",
-      "generateEmail": "產生臨時郵箱",
+      "generateEmail": "產生郵箱地址",
       "getEmails": "取得郵箱清單",
       "getMessages": "取得郵件清單",
       "getMessage": "取得單封郵件",

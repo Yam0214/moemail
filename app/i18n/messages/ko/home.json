@@ -1,18 +1,18 @@
 {
   "title": "MoeMail",
-  "subtitle": "귀여운 임시 이메일 서비스",
+  "subtitle": "모던한 안전한 이메일 서비스",
   "features": {
     "privacy": {
       "title": "개인정보 보호",
-      "description": "실제 이메일 주소 보호"
+      "description": "귀하의 개인정보를 최우선으로 보호합니다"
     },
     "instant": {
-      "title": "이메일 공유",
-      "description": "다른 사람과 메일함 공유"
+      "title": "빠른 공유",
+      "description": "필요할 때 즉시 이메일 공유"
     },
     "expiry": {
-      "title": "자동 만료",
-      "description": "기한이 되면 자동으로 만료"
+      "title": "스마트 받은편지함",
+      "description": "강력한 받은편지함 관리 도구"
     },
     "openapi": {
       "title": "Open API",

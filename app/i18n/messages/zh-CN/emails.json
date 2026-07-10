@@ -157,13 +157,13 @@
     "sharedMessage": "分享邮件",
     "expiresAt": "邮箱过期时间",
     "permanent": "永久有效",
-    "createOwnEmail": "创建自己的临时邮箱",
+    "createOwnEmail": "创建自己的邮箱",
     "brand": {
       "title": "MoeMail",
-      "subtitle": "萌萌哒临时邮箱服务",
+      "subtitle": "现代邮箱服务",
       "cta": "立即体验",
       "officialSite": "官网",
-      "copyright": "© 2024 MoeMail. 萌萌哒临时邮箱服务"
+      "copyright": "© 2024 MoeMail. 现代邮箱服务"
     }
   }
 }

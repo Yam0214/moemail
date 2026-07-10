@@ -2,7 +2,7 @@
 
 > Temporary email service with CLI tool for AI Agents
 
-MoeMail provides disposable email addresses. Install the CLI for programmatic access:
+MoeMail provides email addresses. Install the CLI for programmatic access:
 
 ## CLI Tool
 

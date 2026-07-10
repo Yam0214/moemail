@@ -1,18 +1,18 @@
 {
   "title": "MoeMail",
-  "subtitle": "Cute Temporary Email Service",
+  "subtitle": "Modern Secure Email Service",
   "features": {
     "privacy": {
       "title": "Privacy Protection",
-      "description": "Protect your real email address"
+      "description": "Your privacy is our top priority"
     },
     "instant": {
-      "title": "Email Sharing",
-      "description": "Share your mailbox with others"
+      "title": "Quick Sharing",
+      "description": "Share emails instantly when needed"
     },
     "expiry": {
-      "title": "Auto Expiry",
-      "description": "Automatically expires when due"
+      "title": "Smart Inbox",
+      "description": "Powerful inbox management tools"
     },
     "openapi": {
       "title": "Open API",

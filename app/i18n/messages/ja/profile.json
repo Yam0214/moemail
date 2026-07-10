@@ -31,7 +31,7 @@
     "viewDocs": "ドキュメントを見る",
     "docs": {
       "getConfig": "システム設定を取得",
-      "generateEmail": "使い捨てメールを生成",
+      "generateEmail": "メールアドレスを生成",
       "getEmails": "メールボックス一覧を取得",
       "getMessages": "メール一覧を取得",
       "getMessage": "メールを1件取得",

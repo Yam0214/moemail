@@ -130,7 +130,7 @@ export default async function LocaleLayout({
           defaultTheme="system"
           enableSystem
           disableTransitionOnChange={false}
-          storageKey="temp-mail-theme"
+          storageKey="moemail-theme"
         >
           <Providers>
             <NextIntlClientProvider locale={locale} messages={messages}>

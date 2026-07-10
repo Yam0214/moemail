@@ -1,6 +1,6 @@
 import { Header } from "@/components/layout/header"
 import { auth } from "@/lib/auth"
-import { Shield, Share2, Clock, Code2 } from "lucide-react"
+import { Shield, Share2, Inbox, Code2 } from "lucide-react"
 import { ActionButton } from "@/components/home/action-button"
 import { FeatureCard } from "@/components/home/feature-card"
 import { getTranslations } from "next-intl/server"
@@ -50,7 +50,7 @@ export default async function Home({
                   description={t("features.instant.description")}
                 />
                 <FeatureCard
-                  icon={<Clock className="w-5 h-5" />}
+                  icon={<Inbox className="w-5 h-5" />}
                   title={t("features.expiry.title")}
                   description={t("features.expiry.description")}
                 />

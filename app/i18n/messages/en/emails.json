@@ -157,13 +157,13 @@
     "sharedMessage": "Shared Message",
     "expiresAt": "Expires at",
     "permanent": "Permanent",
-    "createOwnEmail": "Create your own temporary email",
+    "createOwnEmail": "Create your own email",
     "brand": {
       "title": "MoeMail",
-      "subtitle": "Cute temporary email service",
+      "subtitle": "Modern email service",
       "cta": "Try Now",
       "officialSite": "Official Site",
-      "copyright": "© 2024 MoeMail. Cute temporary email service"
+      "copyright": "© 2024 MoeMail. Modern email service"
     }
   }
 }

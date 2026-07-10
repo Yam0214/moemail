@@ -31,7 +31,7 @@
     "viewDocs": "View Documentation",
     "docs": {
       "getConfig": "Get System Config",
-      "generateEmail": "Generate Temp Email",
+      "generateEmail": "Generate Email Address",
       "getEmails": "Get Email List",
       "getMessages": "Get Message List",
       "getMessage": "Get Single Message",

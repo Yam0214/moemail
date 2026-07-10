@@ -1,18 +1,18 @@
 {
   "title": "MoeMail",
-  "subtitle": "かわいい使い捨てメールサービス",
+  "subtitle": "モダンで安全なメールサービス",
   "features": {
     "privacy": {
       "title": "プライバシー保護",
-      "description": "本物のメールアドレスを保護します"
+      "description": "あなたのプライバシーを最優先します"
     },
     "instant": {
-      "title": "メールボックス共有",
-      "description": "メールボックスを他の人と共有できます"
+      "title": "クイック共有",
+      "description": "必要なときにすぐにメールを共有"
     },
     "expiry": {
-      "title": "自動期限切れ",
-      "description": "有効期限が切れると自動的に無効になります"
+      "title": "スマート受信箱",
+      "description": "強力な受信箱管理ツール"
     },
     "openapi": {
       "title": "オープンAPI",

@@ -1,18 +1,18 @@
 {
   "title": "MoeMail",
-  "subtitle": "萌萌噠臨時郵箱服務",
+  "subtitle": "現代安全郵箱服務",
   "features": {
     "privacy": {
       "title": "隱私保護",
-      "description": "保護您的真實郵箱地址"
+      "description": "您的隱私是我們的首要任務"
     },
     "instant": {
-      "title": "郵箱分享",
-      "description": "將郵箱分享給其他人使用"
+      "title": "快捷分享",
+      "description": "需要時即時分享郵件"
     },
     "expiry": {
-      "title": "自動過期",
-      "description": "到期自動失效"
+      "title": "智能收件箱",
+      "description": "強大的收件箱管理工具"
     },
     "openapi": {
       "title": "開放 API",

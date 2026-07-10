@@ -31,7 +31,7 @@
     "viewDocs": "문서 보기",
     "docs": {
       "getConfig": "시스템 설정 가져오기",
-      "generateEmail": "임시 이메일 생성",
+      "generateEmail": "이메일 주소 생성",
       "getEmails": "이메일 목록 가져오기",
       "getMessages": "메시지 목록 가져오기",
       "getMessage": "단일 메시지 가져오기",
