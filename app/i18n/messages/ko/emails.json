@@ -159,11 +159,11 @@
     "permanent": "영구",
     "createOwnEmail": "나만의 이메일 만들기",
     "brand": {
-      "title": "안전한 메일",
+      "title": "픽셀 메일",
       "subtitle": "모던한 이메일 서비스",
       "cta": "지금 사용해보기",
       "officialSite": "공식 사이트",
-      "copyright": "© 2024 안전한 메일. 모던한 이메일 서비스"
+      "copyright": "© 2024 픽셀 메일. 모던한 이메일 서비스"
     }
   }
 }

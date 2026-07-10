@@ -74,7 +74,7 @@ export async function generateMetadata({
       url: `${baseUrl}/${locale}`,
       title: t("title"),
       description: t("description"),
-      siteName: "Secure Mail",
+      siteName: "Pixel Mail",
     },
     twitter: {
       card: "summary_large_image",
@@ -110,10 +110,10 @@ export default async function LocaleLayout({
   return (
     <html lang={locale} suppressHydrationWarning>
       <head>
-        <meta name="application-name" content="Secure Mail" />
+        <meta name="application-name" content="Pixel Mail" />
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="default" />
-        <meta name="apple-mobile-web-app-title" content="Secure Mail" />
+        <meta name="apple-mobile-web-app-title" content="Pixel Mail" />
         <meta name="format-detection" content="telephone=no" />
         <meta name="mobile-web-app-capable" content="yes" />
       </head>
